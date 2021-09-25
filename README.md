@@ -5,8 +5,10 @@ A package to produce a carrot-inspired color palette for python/matplotlib.
 Install:
 pip install carrotColors
 
+Update:
+pip install --upgrade  carrotColors
+
 Usage:
 
-import carrotsColors as c
-
+import carrotColors as c
 my_cmap = c.CarrotColors.get_carrots()
