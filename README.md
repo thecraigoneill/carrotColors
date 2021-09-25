@@ -12,3 +12,8 @@ Usage:
 
 import carrotColors as c
 my_cmap = c.CarrotColors.get_carrots()
+
+Also now with Mulberries:
+![mulberrys](https://user-images.githubusercontent.com/30849698/134758895-a0d3122a-dbfd-4724-9499-c3ba293d8b46.png)
+
+my_cmap = c.CarrotColors.get_mulberries()
