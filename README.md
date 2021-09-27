@@ -13,7 +13,16 @@ Usage:
 import carrotColors as c
 my_cmap = c.CarrotColors.get_carrots()
 
+An example: 
+
+![Carrot_Example1](https://user-images.githubusercontent.com/30849698/134832133-52889e9d-3f01-480a-b092-91a49a6bce64.png)
+
 Also now with Mulberries:
-![mulberrys](https://user-images.githubusercontent.com/30849698/134758895-a0d3122a-dbfd-4724-9499-c3ba293d8b46.png)
+![mulberrys](https://user-images.githubusercontent.com/30849698/134832110-74732282-9f6f-44ff-b0b4-7625f8539218.png)
 
 my_cmap = c.CarrotColors.get_mulberries()
+
+And for those of you who like your color palettes perceptually uniform, here is the perceptually uniform version courtest of empet:
+
+my_cmap = c.CarrotColors.get_uniform_carrots()
+
