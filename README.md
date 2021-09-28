@@ -11,6 +11,7 @@ pip install --upgrade  carrotColors
 Usage:
 
 import carrotColors as c
+
 my_cmap = c.CarrotColors.get_carrots()
 
 An example: 
@@ -24,7 +25,7 @@ Also now with Mulberries:
 my_cmap = c.CarrotColors.get_mulberries()
 
 
-And for those of you who like your color palettes perceptually uniform, here is the perceptually uniform version courtest of empet:
+And for those of you who like your color palettes perceptually uniform, here is the perceptually uniform version courtesy of empet:
 
 my_cmap = c.CarrotColors.get_uniform_carrots()
 
